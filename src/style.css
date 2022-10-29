@@ -24,6 +24,7 @@ main {
 
 h1 {
     color: navy;
+    font-size: 2.3em;
     margin: 0em;
     display: block;
 }
